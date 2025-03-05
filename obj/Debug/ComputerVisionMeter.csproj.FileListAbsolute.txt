@@ -1,0 +1,6 @@
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\ComputerVisionMeter.csproj.AssemblyReference.cache
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\ComputerVisionMeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\MainWindow.g.cs
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\App.g.cs
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\ComputerVisionMeter_MarkupCompile.cache
+C:\Users\Дамир\source\repos\ComputerVisionMeter\ComputerVisionMeter\obj\Debug\ComputerVisionMeter_MarkupCompile.lref
